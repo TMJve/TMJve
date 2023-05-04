@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @TMJve
-- 👀 I’m interested in Game Developing
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I'm a person who loves learning stuff until my brain can't receive anymore new information, yet still continues.
 
 <!---
 TMJve/TMJve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
